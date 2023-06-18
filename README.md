@@ -13,15 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img width="460" height="300" src="https://github.com/GoldPapaya/GoldPapaya/blob/main/Gradient_descent.gif" height="400">
-  <p align="center">Welcome to my Profile! 🚀</p>
+  <img width="460" height="300" src="https://github.com/GoldPapaya/GoldPapaya/blob/main/Gradient_descent_modified.gif" height="400">
+  <h1 align="center">Welcome to my Profile! 🚀</h1>
 </p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+  <p>I am a passionate university student with a deep interest in technology and its power to transform lives. Whether it's crafting elegant code, working on mobile/web applications, or exploring new frontiers in the world of data science, I derive a lot of joy out of creating impactful solutions that make a difference.</p>
+  <p>In terms of hobbies, I really enjoy anything with a lot of problem solving. Recently I've taken up an interest in chess, mystery novels, and grand strategy video games. But my favourite hobby right now, bar none, is getting to explore the cornucopia of possibilities afforded by advances in AI/ML. In fact, just because I can and it's kinda cool, 86% of this text was written by ChatGPT 😋.</p>
+</p>
+<h1>Skills</h1>
+<h1>Contact</h1>
 <p>
   <a href="https://www.linkedin.com/in/lucasc32/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://goldpapaya.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
