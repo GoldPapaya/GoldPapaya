@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GoldPapaya/GoldPapaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/GoldPapaya/GoldPapaya/blob/main/Gradient_descent.gif" target="blank"><img align="center" src="https://github.com/GoldPapaya/GoldPapaya/blob/main/Gradient_descent.gif" height="100" /></a>
+<img width="460" height="300" src="https://github.com/GoldPapaya/GoldPapaya/blob/main/Gradient_descent.gif" height="400">
+### Welcome to my Profile! 👋
+<p style="text-align: center;">Text_content</p>
