@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Playwright-00035d?style=for-the-badge&logo=playwright&logoColor=white">
     <img src="https://img.shields.io/badge/Selenium-1bc60c?style=for-the-badge&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Three.js-f1f1f1?style=for-the-badge&logo=threedotjs&logoColor=black">
   </a>
