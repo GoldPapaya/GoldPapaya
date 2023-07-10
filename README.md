@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>I am a passionate university student with a deep interest in technology and its power to transform lives. Whether it's crafting elegant code, working on mobile/web applications, or exploring new frontiers in the world of data science, I derive a lot of joy out of creating impactful solutions that make a difference.</p>
   <p>In terms of hobbies, I really enjoy anything with a lot of problem solving. Recently I've taken up an interest in chess, mystery novels, and grand strategy video games. But my favourite hobby right now, bar none, is exploring the cornucopia of possibilities afforded by recent advances in AI/ML. Fun fact: 86% of this text was written by ChatGPT.</p>
 </p>
-<h2>Most Frequently Used</h2>
+<h2>Stack</h2>
   <a href="">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
