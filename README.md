@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1 align="center"></h1>
 </p>
 <p>Greetings and welcome to my profile!</p>
-<p>I'm Lucas, a student from <img width="13" height="13" src="canada-emoji-1024x1022-gecqksny.png"> Canada </img> currently studying at the University of Waterloo.</p>
+<p>I'm Lucas, a graduate student from <img width="13" height="13" src="canada-emoji-1024x1022-gecqksny.png"> Canada </img> currently studying at UC Berkeley.</p>
 <a href="https://www.linkedin.com/in/lucasc32/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://goldpapaya.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=lime"></a>
 <h1></h1>
 <div>
